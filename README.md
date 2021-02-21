@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=semicolok&show_icons=true&theme=algolia)
+![Jungu Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=semicolok&show_icons=true&theme=algolia)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=semicolok&theme=algolia&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semicolok&theme=algolia&hide=css)
