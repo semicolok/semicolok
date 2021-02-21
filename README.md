@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=semicolok&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=semicolok&show_icons=true&theme=algolia)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=semicolok&theme=tokyonight&hide=css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=semicolok&theme=algolia&hide=css)
